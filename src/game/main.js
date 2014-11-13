@@ -1,6 +1,6 @@
 var game = new Phaser.Game(
-    800,
-    480,
+    768,
+    768,
     Phaser.AUTO,
     'game',
     {
